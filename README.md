@@ -53,7 +53,7 @@ Research document [here](https://github.com/Vidushi-Gupta/InclusiveLingo/blob/ma
 - Shows links to resources
 
 ### App Demo
-
+https://github.com/Vidushi-Gupta/InclusiveLingo/assets/55969597/afc76ba3-7033-4d09-8470-108f94580c57
 
 
 
@@ -70,7 +70,7 @@ Research document [here](https://github.com/Vidushi-Gupta/InclusiveLingo/blob/ma
 - The UI can be improved further and a lot more screens and functionality can be added.
 - Full CRUD ability can also be added
 
-Made with ❤️🧡💛💚💙💜🖤 by Vidushi
+### Made with ❤️🧡💛💚💙💜🖤 by Vidushi
 
 
 
