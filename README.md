@@ -55,6 +55,7 @@ Research document [here](https://github.com/Vidushi-Gupta/InclusiveLingo/blob/ma
 
 ### App Demo
 https://github.com/Vidushi-Gupta/InclusiveLingo/assets/55969597/7f093e4e-d3d6-4ba8-9b97-e3be639db5c5
+
 [Youtube video](https://youtu.be/I0pgqOBg6Rc)
 
 
