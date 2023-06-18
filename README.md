@@ -52,10 +52,10 @@ Research document [here](https://github.com/Vidushi-Gupta/InclusiveLingo/blob/ma
 - Shows the table with the list of inclusive and non-inclusive words
 - Shows links to resources
 
+
 ### App Demo
-https://github.com/Vidushi-Gupta/InclusiveLingo/assets/55969597/afc76ba3-7033-4d09-8470-108f94580c57
-
-
+https://github.com/Vidushi-Gupta/InclusiveLingo/assets/55969597/7f093e4e-d3d6-4ba8-9b97-e3be639db5c5
+[Youtube video](https://youtu.be/I0pgqOBg6Rc)
 
 
 ## 🧠Challenges I ran into 
